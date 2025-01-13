@@ -15,7 +15,6 @@ Hi, I'm Piyush Chhoriya, a skilled **Software Developer**. I am currently workin
 
 ```javascript
 const piyush = {
-    pronouns: "she" | "her",
     code: ["Java", "Python", "JavaScript", "SQL",, "HTML", "CSS"],
     askMeAbout: ["web dev", "front end", "back end", "full stack", "tech", "coffee"],
     technologies: {
