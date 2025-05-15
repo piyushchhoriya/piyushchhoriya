@@ -1,74 +1,63 @@
-![](https://komarev.com/ghpvc/?username=piyushchhoriya&color=green)
+![](https://komarev.com/ghpvc/?username=piyushchhoriya&color=blue)
+# Piyush Pawanlal Chhoriya
+### Full Stack Developer | Cloud Enthusiast | Problem Solver
 
-<h1 align="center">Hi 👋, I'm Piyush Chhoriya</h1>
-<h3 align="center">Full Stack Software Engineer | Cloud & DevOps Enthusiast | MS in Software Engineering Systems @ Northeastern University</h3>
-
----
-
-🔭 I’m currently working on **cloud-native, scalable applications** using Java, Spring Boot, React, and AWS.  
-🌱 Exploring **system design**, **distributed systems**, and **DevOps tooling**.  
-👯 I love collaborating on **open-source, backend-heavy, or full-stack projects**.  
-💬 Ask me about **Java, Spring Boot, Angular, React, MongoDB, AWS, CI/CD, and backend architecture**.  
-📫 Email: **chhoriya.p@northeastern.edu**  
+Welcome to my GitHub profile! I'm a passionate software engineer with 3.5+ years of experience in building scalable, cloud-native applications and distributed systems. I enjoy solving real-world problems through full-stack development and automation.
 
 ---
 
-## 🧠 Tech Stack
+## 👨‍💻 About Me
 
-```javascript
-const piyush = {
-  languages: ["Java", "JavaScript", "Python", "SQL", "HTML", "CSS"],
-  frontend: ["React", "Angular", "Redux", "TailwindCSS", "Bootstrap"],
-  backend: ["Spring Boot", "Node.js", "Express", "Flask"],
-  databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Oracle"],
-  devops_cloud: ["AWS", "Docker", "Kubernetes", "Jenkins", "GCP"],
-  testing: ["JUnit", "Selenium", "Postman", "Cypress", "Mockito"],
-  tools: ["Git", "GitHub", "Kafka", "Firebase", "Linux"]
-};
-
-## 💼 Experience Snapshot
-
-- 🏢 **Fidelity Investments** – Software Engineering Co-op  
-  
-- 🏢 **Amdocs** – Software Developer  
-  
-- 🏢 **Amdocs** – Associate Software Developer  
-
- 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushchhoriya&show_icons=true&theme=react&count_private=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushchhoriya&theme=react" alt="GitHub streak" />
-</p>
-
+- 🎓 Pursuing Master’s in Software Engineering Systems at Northeastern University, Boston  
+- 💼 Previously at Fidelity Investments and Amdocs  
+- 🛠️ Skilled in Java, Spring Boot, React, AWS, and Microservices  
+- 🚀 Exploring distributed systems, system design, and AI tools  
+- 🤝 Open to collaborating on impactful and innovative projects  
+- 🌐 Portfolio: [piyushchhoriya.dev](https://your-portfolio-link.com) *(replace with actual URL)*  
+- 📫 Email: chhoriya.p@northeastern.edu
 
 ---
 
-## 🔗 Connect with Me
+## 💻 My Skillset Overview
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/piyush-chhoriya)
-[![Email](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:chhoriya.p@northeastern.edu)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/piyush_codes/)
+**Languages:**  
+Java, Python, JavaScript, HTML, CSS, SQL  
 
+**Web Technologies:**  
+React.js, Angular, Redux, TypeScript, TailwindCSS, Bootstrap, jQuery  
+
+**Backend & Tools:**  
+Spring Boot, Flask, Node.js, Hibernate, REST APIs, JUnit, Git, Selenium  
+
+**Databases:**  
+PostgreSQL, MySQL, MongoDB, Oracle, SQLite  
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, RDS, Lambda, IAM), Docker, Kubernetes, Jenkins, GitHub Actions  
+
+**Other Tools:**  
+Firebase, Postman, Apache Kafka, JIRA, Confluence, XAMPP, Apache Tomcat
 
 ---
 
-## 💡 Fun Facts
+## 🧑‍💼 Work Experience
 
-- ☕ I run on coffee and debugging sessions  
-- 🚀 Passionate about building impactful tools and real-world systems  
-- 📚 Currently diving deep into advanced system design and backend optimization
+**Software Engineering Co-op – Fidelity Investments**  
+Designed and deployed microservices using Spring Boot and AWS; built CI/CD pipelines using Jenkins.
 
+**Software Developer – Amdocs**  
+Modernized large-scale legacy systems to Java/Spring Boot and Angular stack, improving performance by 40%.
 
+**Associate Software Developer – Amdocs**  
+Developed REST APIs and integrated Redis caching to boost data delivery and performance.
 
+---
 
+## 📫 Connect with Me
 
+- LinkedIn: [linkedin.com/in/piyushchhoriya](https://www.linkedin.com/in/piyushchhoriya)  
+- Email: chhoriya.p@northeastern.edu  
+- LeetCode: [leetcode.com/your-leetcode-profile](https://leetcode.com/your-leetcode-profile) *(replace with actual link)*
 
-
-
+---
 
