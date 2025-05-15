@@ -1,48 +1,74 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=piyushchhoriya&color=green)
 
+<h1 align="center">Hi 👋, I'm Piyush Chhoriya</h1>
+<h3 align="center">Full Stack Software Engineer | Cloud & DevOps Enthusiast | MS in Software Engineering Systems @ Northeastern University</h3>
 
+---
 
-# Piyush Chhoriya
-### A Software Developer and Cloud Enthusiast 💻
-Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. Feel free to explore and get in touch!
+🔭 I’m currently working on **cloud-native, scalable applications** using Java, Spring Boot, React, and AWS.  
+🌱 Exploring **system design**, **distributed systems**, and **DevOps tooling**.  
+👯 I love collaborating on **open-source, backend-heavy, or full-stack projects**.  
+💬 Ask me about **Java, Spring Boot, Angular, React, MongoDB, AWS, CI/CD, and backend architecture**.  
+📫 Email: **chhoriya.p@northeastern.edu**  
 
-## About Me
-Hi, I'm Piyush Chhoriya, a skilled **Software Developer**. I am currently working as a Software Engineer Co-op at **Fidelity Investments**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+---
 
-
-
-### aboutMe.js
+## 🧠 Tech Stack
 
 ```javascript
 const piyush = {
-    code: ["Java", "Python", "JavaScript", "SQL",, "HTML", "CSS"],
-    askMeAbout: ["web dev", "front end", "back end", "full stack", "tech", "coffee"],
-    technologies: {
-        frontEnd: {
-            css: ["bootstrap", "materialize", "tailwindcss"],
-            js: ["React", "Angular", "NextJs", "Rescript"]
-        },
-        backEnd: {
-            js: ["firebase", "node", "express"]
-        },
-        databases: ["MySQL","RSQLite", "PostgreSQL", "MongoDB", "Oracle"],
-        misc: ["Git", "Jenkins", "AWS", "Docker", "Kubernetes", "Google Cloud Platform"]
-    }
+  languages: ["Java", "JavaScript", "Python", "SQL", "HTML", "CSS"],
+  frontend: ["React", "Angular", "Redux", "TailwindCSS", "Bootstrap"],
+  backend: ["Spring Boot", "Node.js", "Express", "Flask"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Oracle"],
+  devops_cloud: ["AWS", "Docker", "Kubernetes", "Jenkins", "GCP"],
+  testing: ["JUnit", "Selenium", "Postman", "Cypress", "Mockito"],
+  tools: ["Git", "GitHub", "Kafka", "Firebase", "Linux"]
 };
-```
+
+## 💼 Experience Snapshot
+
+- 🏢 **Fidelity Investments** – Software Engineering Co-op  
+  
+- 🏢 **Amdocs** – Software Developer  
+  
+- 🏢 **Amdocs** – Associate Software Developer  
+
+ 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushchhoriya&show_icons=true&theme=react&count_private=true" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushchhoriya&theme=react" alt="GitHub streak" />
+</p>
 
 
-<!-- section - skills -->
+---
 
-## My Skillset Overview 💻
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Java, Python, JavaScript, HTML, CSS, SQL
+## 🔗 Connect with Me
 
-**Web Technologies**: Angular, React.js, Redux, Typescript, jQuery, Material-UI, Bootstrap, Ajax
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/piyush-chhoriya)
+[![Email](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:chhoriya.p@northeastern.edu)
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/piyush_codes/)
 
-**Backend and tools**: Spring Boot, Flask, Node.js, Hibernate, Visual Studio Code, JUnit, Git, GitHub, Selenium
 
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MySQL, Mongo DB, Oracle Database, SQLite  
+---
 
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, XAMPP Apache Web server, Bootstrap, PHP, AngularJS, Apache Tomcat, Selenium Tool, REST APIs, Jasmine Framework, JIRA, Confluence, Postman, Jupyter Notebook, SSMS 
+## 💡 Fun Facts
 
-**DevOps/ Cloud**: Jenkins, AWS EC2, Docker, Kubernetes
+- ☕ I run on coffee and debugging sessions  
+- 🚀 Passionate about building impactful tools and real-world systems  
+- 📚 Currently diving deep into advanced system design and backend optimization
+
+
+
+
+
+
+
+
+
