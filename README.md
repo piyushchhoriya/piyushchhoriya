@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with 3.5+ years
 - 🛠️ Skilled in Java, Spring Boot, React, AWS, and Microservices  
 - 🚀 Exploring distributed systems, system design, and AI tools  
 - 🤝 Open to collaborating on impactful and innovative projects  
-- 🌐 Portfolio: [piyushchhoriya.dev](https://your-portfolio-link.com) *(replace with actual URL)*  
+- 🌐 Portfolio:   
 - 📫 Email: chhoriya.p@northeastern.edu
 
 ---
@@ -43,21 +43,18 @@ Firebase, Postman, Apache Kafka, JIRA, Confluence, XAMPP, Apache Tomcat
 ## 🧑‍💼 Work Experience
 
 **Software Engineering Co-op – Fidelity Investments**  
-Designed and deployed microservices using Spring Boot and AWS; built CI/CD pipelines using Jenkins.
 
 **Software Developer – Amdocs**  
-Modernized large-scale legacy systems to Java/Spring Boot and Angular stack, improving performance by 40%.
 
 **Associate Software Developer – Amdocs**  
-Developed REST APIs and integrated Redis caching to boost data delivery and performance.
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/piyushchhoriya](https://www.linkedin.com/in/piyushchhoriya)  
+- LinkedIn: [linkedin.com/in/piyushchhoriya](https://www.linkedin.com/in/piyush-chhoriya/)  
 - Email: chhoriya.p@northeastern.edu  
-- LeetCode: [leetcode.com/your-leetcode-profile](https://leetcode.com/your-leetcode-profile) *(replace with actual link)*
+- LeetCode: [leetcode.com/your-leetcode-profile](https://leetcode.com/u/piyushchhoriya98/) 
 
 ---
 
