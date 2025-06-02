@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=piyushchhoriya&color=blue)
+
 # Piyush Pawanlal Chhoriya
 ### Full Stack Developer | Cloud Enthusiast | Problem Solver
 
