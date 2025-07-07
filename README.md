@@ -54,7 +54,7 @@ Firebase, Postman, Apache Kafka, JIRA, Confluence, XAMPP, Apache Tomcat
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpchhoriya&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchhoriya&layout=compact&theme=dracula)
 
 
 ---
