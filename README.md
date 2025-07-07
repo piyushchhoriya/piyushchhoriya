@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with 3.5+ years
 - 🛠️ Skilled in Java, Spring Boot, Angular, AWS, and Microservices  
 - 🚀 Exploring distributed systems, system design, and AI tools  
 - 🤝 Open to collaborating on impactful and innovative projects  
-- 🌐 Portfolio:   
+- 🌐 Portfolio: https://piyushchhoriya.github.io
 - 📫 Email: chhoriya.p@northeastern.edu
 
 ---
