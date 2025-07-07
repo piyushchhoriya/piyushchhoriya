@@ -50,6 +50,12 @@ Firebase, Postman, Apache Kafka, JIRA, Confluence, XAMPP, Apache Tomcat
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<img src="https://raw.githubusercontent.com/piyushchhoriya/piyushchhoriya/output/snake.svg" alt="GitHub Snake Animation" />
+
+---
+
 ## 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/piyushchhoriya](https://www.linkedin.com/in/piyush-chhoriya/)  
