@@ -48,6 +48,8 @@ Firebase, Postman, Apache Kafka, JIRA, Confluence, XAMPP, Apache Tomcat
 
 **Associate Software Developer – Amdocs**  
 
+**Web Development Intern – Ukvalley Technologies**  
+
 ---
 
 ---
